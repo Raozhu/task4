@@ -12,7 +12,8 @@ a,a:hover{ text-decoration:none;}
     height:80px;
     font-size: 1.5em;
     text-align:center;
-    line-height: 3em; }
+    line-height: 3em;
+    clear:both;}
 
 .main img
 {   float: left;
